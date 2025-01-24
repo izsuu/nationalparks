@@ -32,7 +32,7 @@ The first one is from 1983 and shows California as by far the most popular state
 ![4image](https://github.com/izsuu/nationalparks/blob/main/US_RV_2003.png)
 
 ## 2023
-The most recent map of RV camping throughout the states is from 2023. This map highlights that California continues to be the top state for RV camping. From the previous graph of parks, we saw that Yosemite National Park was the most popular RV park, which explains why California, the home state of Yosemite, ranks as the most popular state for RV camping. Compared to the previous map from 2003, Alaska dropped to almost 0 RV numbers. 
+The most recent map of RV camping throughout the states is from 2023. This map highlights that California continues to be the top state for RV camping. From the previous graph of parks, we saw that Yosemite National Park was the most popular RV park, which explains why California, the home state of Yosemite, ranks as the most popular state for RV camping. Compared to the previous map from 2003, Alaska dropped to almost 0 RV numbers while Montana and Maine have increased popularity.
 
 ![5image](https://github.com/izsuu/nationalparks/blob/main/US_RV_2023.png)
 
