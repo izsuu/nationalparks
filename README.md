@@ -24,7 +24,13 @@ The first one is from 1983 and shows California as by far the most popular state
 ![3image](https://github.com/izsuu/nationalparks/blob/main/US_RV_1983.png)
 
 ## 2003
-20 years later, 
+20 years later, California is still the most popular state. However, numbers have decreased by 300,000. Also, Alaska and Arizona have both increased in popularity.
+
+![4image](https://github.com/izsuu/nationalparks/blob/main/US_RV_2003.png)
+
+## 2023
+
+![5image](
 
 ## Most Popular RV Camping Seasons
 
