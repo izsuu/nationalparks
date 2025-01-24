@@ -1,9 +1,10 @@
 # National Parks Data Viz Challenge
+#### Highlighting RV trends throughout time
 
-My three data visualizations illustrate various aspects of RV camping in the National Parks throughout time. Since 1979, RV camping has been on a decline, but numbers are still in the millions. 
+My four data visualizations illustrate various aspects of RV camping in the National Parks over time. Since 1979, RV camping has been on a decline, but numbers are still in the millions.
 
 ## RV vs. Tent Campers Over Time
-This animated graph shows rv vs. tent camping popularity through from 1979 - 2023. Although more popular in 1979, RV camping has consistently been less favorable than tent camping. Overall, both RV and tent camping numbers have dropped, especially after the stark decreases due to the COVID-19 pandemic. 
+This animated graph shows RV vs. tent camping popularity through from 1979 - 2023. Although more popular in 1979, RV camping has consistently been less favorable than tent camping. Overall, both RV and tent camping numbers have dropped, especially after the stark decreases due to the COVID-19 pandemic. 
 
 ![1image](https://github.com/izsuu/nationalparks/blob/main/RV%20versus%20Tent.gif)
 
@@ -16,7 +17,9 @@ Using data from the 5 most popular parks for RV camping, changes over time show 
 ![2image](https://github.com/izsuu/nationalparks/blob/main/RV%20campers%20by%20Park%20Over%20Time.png)
 
 ## State RV Popularity
-These 3 maps show the popularity of RV camping distributed throughout the U.S. states throughout time. 
+These 3 maps show the popularity of RV NP camping distributed throughout the U.S. states in 20 year intervals.
+
+*It is important to note that this map does not depict total RV camping numbers, only RV camping in National Parks. It is possible that, while RV camping may be popular in one state, this map will indicate 0 RV camping because there is no NP located in that state. 
 
 ### 1983
 The first one is from 1983 and shows California as by far the most popular state for RV camping. New Hampshire, West Virginia, Colorado, and Texas are also popular. 
