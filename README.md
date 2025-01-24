@@ -16,8 +16,15 @@ Using data from the 5 most popular parks for RV camping, changes over time show 
 ![2image](https://github.com/izsuu/nationalparks/blob/main/RV%20campers%20by%20Park%20Over%20Time.png)
 
 ## State RV Popularity
-### 1983
+These 3 maps show the popularity of RV camping distributed throughout the U.S. states throughout time. 
 
+### 1983
+The first one is from 1983 and shows California as by far the most popular state for RV camping. New Hampshire, West Virginia, Colorado, and Texas are also popular. 
+
+![3image](https://github.com/izsuu/nationalparks/blob/main/US_RV_1983.png)
+
+## 2003
+20 years later, 
 
 ## Most Popular RV Camping Seasons
 
