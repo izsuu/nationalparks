@@ -1,7 +1,7 @@
 # National Parks Data Viz Challenge
 #### Highlighting RV trends throughout time
 
-My four data visualizations illustrate various aspects of RV camping in the National Parks over time. Since 1979, RV camping has been on a decline, but numbers are still in the millions.
+My four data visualizations illustrate various aspects of RV camping in the National Parks over time. Since 1979, RV camping has been on a decline, but numbers are still in the millions. I produced these visualizations using R, specifically the ggplot, ggimage, and gganimate packages.
 
 ## RV vs. Tent Campers Over Time
 This animated graph shows RV vs. tent camping popularity through from 1979 - 2023. Although more popular in 1979, RV camping has consistently been less favorable than tent camping. Overall, both RV and tent camping numbers have dropped, especially after the stark decreases due to the COVID-19 pandemic. 
